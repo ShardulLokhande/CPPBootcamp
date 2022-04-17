@@ -1,3 +1,4 @@
 a.log
 *.log
-log/
+logs/
+*.txt
